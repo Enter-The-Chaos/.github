@@ -3,23 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo/chaos_smp_logo.png" width="300">
+  <img src="assets/logo/chaos_smp_logo.png" width="260">
 </p>
 
 <p align="center">
   <b>A custom Minecraft modpack & SMP experience built around progression, power, and pure chaos.</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modpack-Custom-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+</p>
+
 ---
 
-## 🚀 Download & Play
+## 🎮 Play Now
 
 <p align="center">
   <a href="https://www.curseforge.com/minecraft/modpacks/enter-the-chaos-smp">
-    <img src="https://img.shields.io/badge/Download-CurseForge-orange?style=for-the-badge&logo=curseforge">
+    <img src="https://img.shields.io/badge/Download%20on-CurseForge-orange?style=for-the-badge&logo=curseforge">
   </a>
   <a href="https://quirkycarlos.uk/enter-the-chaos-smp">
-    <img src="https://img.shields.io/badge/Website-Enter%20The%20Chaos-39FF14?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Official-Website-39FF14?style=for-the-badge">
   </a>
   <a href="https://discord.quirkycarlos.uk">
     <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord">
@@ -30,7 +36,7 @@
 
 ## 🌌 About The Project
 
-Enter The Chaos pushes players beyond vanilla Minecraft into a world filled with:
+**Enter The Chaos** pushes players beyond vanilla Minecraft into a world driven by progression, danger, and evolving gameplay.
 
 * ⚔️ Powerful weapons & abilities
 * 🧠 Deep progression systems
@@ -64,14 +70,14 @@ Enter The Chaos pushes players beyond vanilla Minecraft into a world filled with
 * 🏰 Massive builds, factions & alliances
 * ⚔️ Boss fights, raids, and PvE/PvP moments
 * 🌌 Custom progression that rewards commitment
-* 📖 Player-driven stories and lore
+* 📖 Player-driven stories and emergent lore
 * 🎥 Stream events & community interaction
 
 ---
 
 ## 📦 Installation Guide
 
-### 🔽 CurseForge Method (Recommended)
+### 🔽 CurseForge (Recommended)
 
 1. Install the **CurseForge Launcher**
 2. Search for **Enter The Chaos SMP**
@@ -91,13 +97,13 @@ Enter The Chaos pushes players beyond vanilla Minecraft into a world filled with
 
 ## 🖥️ Server Setup
 
-Want to run your own Chaos SMP?
+Run your own **Enter The Chaos SMP** server:
 
 ### ⚙️ Basic Setup
 
 1. Download the **Server Files** from CurseForge
-2. Extract to your server directory
-3. Accept `eula.txt` (set to true)
+2. Extract into your server directory
+3. Open `eula.txt` → set to `true`
 4. Run the start script
 
 ---
@@ -114,17 +120,17 @@ Want to run your own Chaos SMP?
 
 * Use a **dedicated host** for best performance
 * Keep mods & configs synced with clients
-* Restart server regularly for stability
+* Restart regularly for stability
 
 ---
 
 ## 🌐 Community
 
 <p align="center">
-  <img src="assets/banner/chaos_join_banner.png" width="80%">
+  <img src="assets/banner/chaos_join_banner.png" width="75%">
 </p>
 
-👉 Join the Chaos Community:
+👉 **Join the Chaos Community:**
 https://discord.quirkycarlos.uk
 
 ---
@@ -140,7 +146,7 @@ https://discord.quirkycarlos.uk
 
 ## 🛠️ Development
 
-This GitHub organization contains:
+This repository includes:
 
 * ⚙️ Config files
 * 🧩 Custom tweaks
@@ -152,7 +158,7 @@ This GitHub organization contains:
 ## ⚠️ Disclaimer
 
 All mods belong to their respective creators.
-This is a curated modpack and does not claim ownership of individual mods.
+This project is a curated modpack and does not claim ownership of individual mods.
 
 ---
 
