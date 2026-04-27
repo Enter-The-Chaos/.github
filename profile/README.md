@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner/chaos_smp_hero.png">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/banner/chaos_smp_hero.png">
 </p>
 
 <p align="center">
-  <img src="assets/logo/chaos_smp_logo.png" width="260">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/logo/chaos_smp_logo.png" width="260">
 </p>
 
 <p align="center">
@@ -51,15 +51,15 @@
 ## ⚡ Features
 
 <p align="center">
-  <img src="assets/features/chaos_feature_community.png" width="30%">
-  <img src="assets/features/chaos_feature_builds.png" width="30%">
-  <img src="assets/features/chaos_feature_events.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_community.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_builds.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_events.png" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/features/chaos_feature_stories.png" width="30%">
-  <img src="assets/features/chaos_feature_streams.png" width="30%">
-  <img src="assets/features/chaos_feature_discord.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_stories.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_streams.png" width="30%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/features/chaos_feature_discord.png" width="30%">
 </p>
 
 ---
@@ -127,10 +127,10 @@ Run your own **Enter The Chaos SMP** server:
 ## 🌐 Community
 
 <p align="center">
-  <img src="assets/banner/chaos_join_banner.png" width="75%">
+  <img src="https://raw.githubusercontent.com/Enter-The-Chaos/enter-the-chaos-smp/main/assets/banner/chaos_join_banner.png" width="75%">
 </p>
 
-👉 **Join the Chaos Community:**
+👉 **Join the Chaos Community:**  
 https://discord.quirkycarlos.uk
 
 ---
@@ -157,14 +157,14 @@ This repository includes:
 
 ## ⚠️ Disclaimer
 
-All mods belong to their respective creators.
+All mods belong to their respective creators.  
 This project is a curated modpack and does not claim ownership of individual mods.
 
 ---
 
 ## 👑 Creator
 
-Created by **QuirkyCarlos**
+Created by **QuirkyCarlos**  
 🎥 YouTube • Community • Chaos
 
 ---
